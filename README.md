@@ -1,9 +1,11 @@
-# hyperblog
+# Hyperblog
 Un blog increíble para el curso de Git y Github de Platzi
 
 En este curso vi cómo utilzar los comandos de Git y la plataforma de Github. También aprendí las buenas prácticas al trabajar con los repositorios y de manera colaborativa con otras personas en un proyecto.
 
-Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manejo de branches, colaboraciones, fork de un proyecto (contribuir por open source), manejar errores, crear Readme.md
+Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manejo de branches, colaboraciones, fork de un proyecto (contribuir por open source), manejar errores, crear Readme.md, hosting con [Github Pages](https://lourdesnrdz.github.io/hyperblog/)
+
+[Hyperblog](https://lourdesnrdz.github.io/hyperblog/blogpost.html)
 
 ## Comandos 
 
@@ -27,3 +29,4 @@ Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manej
 | git status | Permite ver el estado de todos nuestros archivos y carpetas |
 | git remote add upstream {url} | Crea un repositorio remoto adicional |
 | git pull upstream main | Trae los cambios de main. Hacer pull desde el nuevo origen. |
+| git rebase master | Fusiona la rama feature con la rama main |
