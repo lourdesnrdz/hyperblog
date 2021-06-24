@@ -34,6 +34,9 @@ Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manej
 | git stash | Regresar el cambio anterior que hicimos |
 | git stash pop | Recuperar los últimos cambios desde el stash a tu staging area |
 | git stash drop | Eliminar los últimos cambios desde el stash |
+| git clean --dry-run | Muestra qué archivos vamos a borrar |
+| git clean -f | Borra los archivos listados |
+<!-- |  |  |
 |  |  |
 |  |  |
 |  |  |
@@ -43,7 +46,4 @@ Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manej
 |  |  |
 |  |  |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  |  | -->
