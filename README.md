@@ -3,7 +3,7 @@ Un blog increíble para el curso de Git y Github de Platzi
 
 En este curso vi cómo utilzar los comandos de Git y la plataforma de Github. También aprendí las buenas prácticas al trabajar con los repositorios y de manera colaborativa con otras personas en un proyecto.
 
-Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manejo de branches, colaboraciones, fork de un proyecto (contribuir por open source), manejar errores, crear Readme.md, hosting con [Github Pages](https://lourdesnrdz.github.io/hyperblog/) y más.
+Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manejo de branches, colaboraciones, fork de un proyecto (contribuir por open source), manejar errores, crear `Readme.md`, hosting con [Github Pages](https://lourdesnrdz.github.io/hyperblog/) y más.
 
 <!-- [Hyperblog](https://lourdesnrdz.github.io/hyperblog/blogpost.html) -->
 
@@ -38,13 +38,24 @@ Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manej
 | git clean -f | Borra los archivos listados |
 | git cherry-pick {commit} | Traer commit de otra rama a master |
 | git commit --amend | Agrega los cambios al commit anterior |
-<!-- |  |  |
+| git reflog show --all | Obtener un reflog de todas las referencias de tu HEAD |
+| git reset --soft {HEAD} | Restablece el apuntador HEAD, mentiene lo que hay en staging |
+| git reset --hard {HEAD} | Restablece el apuntador HEAD, borra todo lo que hay en staging |
+| git grep {word} | Busca en todo el proyecto donde está la palabra |
+| git grep -n {word} | Regresa en qué líneas está l apalabra |
+| git grep 'c {word} | Regresa cuántas veces se repite la palabra y en qué archivo |
+| git log-S {word} | Muestra los commits que contienen la palabra |
+| git shortlog | Muestra un log por persona de lo que ha hecho cada miembro |
+| git shortlog -sn | Muestra cuantos commit han hecho cada miembros del equipo |
+| git shortlog -sn --all | Muestra cuantos commits ha hecho cada miembro incluyendo commits eliminados |
+| git shortlog -sn --all --no-merge | Muestra cuantos commit ha hecho cada miembrosin incluir los eliminados ni los merges |
+| git blame {file} o git blame -c {file} | Muestra quien hizo cada cosa linea por linea |
+| git blame {file} -L{start},{fin} | Muestra quien hizo cada cosa linea por linea en un rango de líneas (ejemplo: -L35,50) |
+| git {command} --help | Muestra como funciona el comando |
+| git branch -r | Muestra todas las ramas remotas |
+| git branch -a | Muestra todas las ramas tanto locales como remotas |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  | -->
