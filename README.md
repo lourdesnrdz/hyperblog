@@ -37,8 +37,8 @@ Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manej
 | git clean --dry-run | Muestra qué archivos vamos a borrar |
 | git clean -f | Borra los archivos listados |
 | git cherry-pick {commit} | Traer commit de otra rama a master |
+| git commit --amend | Agrega los cambios al commit anterior |
 <!-- |  |  |
-|  |  |
 |  |  |
 |  |  |
 |  |  |
