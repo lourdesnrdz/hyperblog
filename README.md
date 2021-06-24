@@ -54,8 +54,3 @@ Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manej
 | git {command} --help | Muestra como funciona el comando |
 | git branch -r | Muestra todas las ramas remotas |
 | git branch -a | Muestra todas las ramas tanto locales como remotas |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
