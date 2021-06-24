@@ -5,7 +5,7 @@ En este curso vi cómo utilzar los comandos de Git y la plataforma de Github. Ta
 
 Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manejo de branches, colaboraciones, fork de un proyecto (contribuir por open source), manejar errores, crear Readme.md, hosting con [Github Pages](https://lourdesnrdz.github.io/hyperblog/) y más.
 
-[Hyperblog](https://lourdesnrdz.github.io/hyperblog/blogpost.html)
+<!-- [Hyperblog](https://lourdesnrdz.github.io/hyperblog/blogpost.html) -->
 
 ## Comandos 
 
@@ -36,6 +36,7 @@ Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manej
 | git stash drop | Eliminar los últimos cambios desde el stash |
 | git clean --dry-run | Muestra qué archivos vamos a borrar |
 | git clean -f | Borra los archivos listados |
+| git cherry-pick {commit} | Traer commit de otra rama a master |
 <!-- |  |  |
 |  |  |
 |  |  |
