@@ -21,9 +21,8 @@ I also learned how to manage SSH keys, to create tags, manage branches, fork a p
 
 Throught the course we developed a hyperblog, and used the git commands to manage the proyect through the terminal. We used the Hyperblog to create scenarios and cases to learn how to resolve errors and conflicts, what to do when you make unintentional commits, when you break the project, etc.
 
-[Example Github Pages](https://lourdesnrdz.github.io/hyperblog/index.html)
-
-[Hyperblog](https://lourdesnrdz.github.io/hyperblog/blogpost.html)
+* [Example Github Pages](https://lourdesnrdz.github.io/hyperblog/index.html)
+* [Hyperblog](https://lourdesnrdz.github.io/hyperblog/blogpost.html)
 
 ## Technologies
 
@@ -34,7 +33,7 @@ On this course I used the following development technologies:
  - HTML and CSS
 
 ## Commands 
-These are the commands that we learned throughout the course.
+These are the commands that we learned and used throughout the course.
 
 | Command | Description |
 |---------|-------------|
