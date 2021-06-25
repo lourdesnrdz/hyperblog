@@ -1,19 +1,40 @@
 # Hyperblog
+An incredible blog for the Git and Github course from Platzi
+
+## Table of contents
+
+* [General info](#general-info) 
+* [Technologies](#technologies) 
+* [Commands](#commands)
+
 <!-- Un blog increíble para el curso de Git y Github de Platzi -->
 
 <!-- En este curso vi cómo utilzar los comandos de Git y la plataforma de Github. También aprendí las buenas prácticas al trabajar con los repositorios y de manera colaborativa con otras personas en un proyecto.
 
 Asimismo, aprendí cómo configurar las llaves SSH para crear, crear tags, manejo de branches, colaboraciones, fork de un proyecto (contribuir por open source), manejar errores, crear `Readme.md`, hosting con [Github Pages](https://lourdesnrdz.github.io/hyperblog/) y más. -->
 
-An incredible blog for the Git and Github course from Platzi
+## General info
 
 In this course I learned how to use Git commands and the Github platform. Also, I learned good practices when working with repositories and collaborating with other people on a project.
 
-I also learned how to manage SSH keys, to create tags, manage branches, fork a project (open source contributions), manage errors, create a `Readme.md`, hosting with [Github Pages](https://lourdesnrdz.github.io/hyperblog/index.html) and more.
+I also learned how to manage SSH keys, to create tags, manage branches, fork a project (open source contributions), manage errors, create a `Readme.md`, hosting with Github Pages and more.
+
+Throught the course we developed a hyperblog, and used the git commands to manage the proyect through the terminal. We used the Hyperblog to create scenarios and cases to learn how to resolve errors and conflicts, what to do when you make unintentional commits, when you break the project, etc.
+
+[Example Github Pages](https://lourdesnrdz.github.io/hyperblog/index.html)
 
 [Hyperblog](https://lourdesnrdz.github.io/hyperblog/blogpost.html)
 
+## Technologies
+
+On this course I used the following development technologies:
+ - Visual Studio Code
+ - Git
+ - Github
+ - HTML and CSS
+
 ## Commands 
+These are the commands that we learned throughout the course.
 
 | Command | Description |
 |---------|-------------|
